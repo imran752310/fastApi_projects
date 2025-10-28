@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 
 # ✅ Use your actual connection string (no quotes around variable name)
+MONGO_URL = ""
 
 # ✅ Connect to MongoDB Atlas
 client = MongoClient(MONGO_URL)
