@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Ali Raza",
+        "city": "Lahore",
+        "gender": "Male",
+        "address": "House No. 24, Gulberg III, Lahore",
+        "case": "Fever and body aches",
+        "phone_number": "+92 300 4567890"
+    },
+    {
+        "id": "2",
+        "name": "Fatima Khan",
+        "city": "Karachi",
+        "gender": "Female",
+        "address": "Flat 8A, Clifton Block 5, Karachi",
+        "case": "Migraine and dizziness",
+        "phone_number": "+92 333 9876543"
+    },
+    {
+        "id": "3",
+        "name": "Ahmed Nawaz",
+        "city": "Islamabad",
+        "gender": "Male",
+        "address": "Street 12, F-10/3, Islamabad",
+        "case": "Back pain due to injury",
+        "phone_number": "+92 301 2456789"
+    },
+    {
+        "id": 4,
+        "name": "Ayesha Siddiqui",
+        "city": "Faisalabad",
+        "gender": "Female",
+        "address": "House 45, Madina Town, Faisalabad",
+        "case": "Seasonal allergies",
+        "phone_number": "+92 322 5567890"
+    },
+    {
+        "id": "5",
+        "name": "Usman Tariq",
+        "city": "Rawalpindi",
+        "gender": "Male",
+        "address": "Plot 10, Bahria Town Phase 4, Rawalpindi",
+        "case": "High blood pressure",
+        "phone_number": "+92 345 6789012"
+    },
+    {
+        "id": "8",
+        "name": "imran",
+        "city": "abc",
+        "gender": "m",
+        "address": "abc",
+        "case": "test"
+    }
+]
+    
